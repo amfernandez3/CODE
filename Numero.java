@@ -1,1 +1,1 @@
-public class numero{}
+public class numero{ private int num;}
